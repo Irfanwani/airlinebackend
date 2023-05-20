@@ -15,6 +15,7 @@ app.listen(PORT, () =>
 );
 
 app.get("/", async (request, response) => {
+    response.header("Access-Control-Allow-Origin", '*')
   let res = await fetch(
     "https://compareprivateplanes.com/tools/airport_map/server.php?f=get_model_list"
   );
