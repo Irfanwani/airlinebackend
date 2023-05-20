@@ -1,0 +1,19 @@
+{
+  "name": "airlinebackend",
+  "version": "1.0.0",
+  "description": "airline backend",
+  "main": "airline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irfanwani/airlinebackend.git"
+  },
+  "author": "Irfanwani <irfanwani347@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irfanwani/airlinebackend/issues"
+  },
+  "homepage": "https://github.com/irfanwani/airlinebackend#readme"
+}
